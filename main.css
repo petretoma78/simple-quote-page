@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+}
+
+.citat {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  text-transform: uppercase
+}
+
+.mesaj {
+  padding-top: 70px;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.autor {
+  font-family: 'Crimson Text', serif;
+  font-size: 125%;
+  font-style: italic;
+}
